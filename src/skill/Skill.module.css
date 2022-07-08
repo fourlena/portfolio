@@ -1,0 +1,18 @@
+.skillBlock{
+    background-color: rgba(207,217,198,0.84);
+    width: 250px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.icon{
+    width: 60px;
+    height: 60px;
+    background-color: rgba(217,194,191,0.84);
+}
+
+
+

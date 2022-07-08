@@ -1,0 +1,10 @@
+.headerBlock{
+    height: 80px;
+    background-color: rgba(131,217,211,0.84);
+}
+
+.headerContainer{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
